@@ -87,12 +87,7 @@ targetted_decisions = {
 		ai_check_interval = 6
 
 		from_potential = {
-			has_dlc = "Legacy of Rome"
-			is_playable = yes
-			OR = {
-				culture_group = byzantine
-				culture_group = sinic
-			}
+			
 		}
 	
 		potential = {
@@ -242,9 +237,7 @@ targetted_decisions = {
 		ai_check_interval = 6
 	
 		from_potential = {
-			has_dlc = "Legacy of Rome"
-			is_playable = yes
-			culture_group = byzantine
+			
 		}
 	
 		potential = {
